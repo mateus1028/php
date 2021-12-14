@@ -1,0 +1,37 @@
+body {
+  background-color:;
+  overflow: hidden;
+}
+
+.login {
+  width: 410px;
+  overflow: hidden;
+  margin: auto;
+  margin-top: 150px;
+  padding: 20px;
+  background: 135206250;
+  border: 1px; solid silver;
+  border-radius: 5px;
+}
+.login h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  font-family: impact;
+  color: #A4D3EE
+}
+.login h4{
+	
+	color:white;
+}
+.login input {
+  width: 400px;
+  height: 35px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border: 3px; solid silver;
+  padding: 5px;
+}
+
+.login p {
+  font-size: 15px;
+}
